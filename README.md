@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images\Screenshot 2025-02-08 at 11-45-50 Frontend Mentor Advice generator app.png)
+![Image](./images\Screenshot 2025-02-08 at 11-45-50 Frontend Mentor Advice generator app.png)
 
 
 ### Links
