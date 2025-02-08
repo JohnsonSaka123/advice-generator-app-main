@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/JohnsonSaka123/advice-generator-app-main)
-- Live Site URL: [](https://johnsonsaka123.github.io/advice-generator-app-main/)
+- Solution URL: [Solution on github](https://github.com/JohnsonSaka123/advice-generator-app-main)
+- Live Site URL: [Live site hosted on github pages](https://johnsonsaka123.github.io/advice-generator-app-main/)
 
 
 ## My process
@@ -46,3 +46,7 @@ Users should be able to:
 ### What I learned
 
 I learnt how to fetch data using API requests and also how to use Javascript DOM manipulation.
+
+## Acknowledgement
+
+I want to say a big thank you to frontend mentor for putting out this challenge.
